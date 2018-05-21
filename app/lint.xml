@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="InvalidPackage">
+        
+        <ignore regexp="backendless-4.4.1.jar"/>
+        <!-- Ignore javax.mail from logback https://github.com/tony19/logback-android/issues/140-->
+        
+    </issue>
+</lint>

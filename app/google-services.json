@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "490491527726",
+    "firebase_url": "https://android-login-screen.firebaseio.com",
+    "project_id": "android-login-screen",
+    "storage_bucket": "android-login-screen.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490491527726:android:7fabd941503f6d9f",
+        "android_client_info": {
+          "package_name": "com.example.ymittal.backendlesslogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490491527726-6iut8snatraoqrga90qnlmck3jglh90c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ymittal.backendlesslogin",
+            "certificate_hash": "42a9bd56508e5b9e1aab6c7cec2c83dbba93665c"
+          }
+        },
+        {
+          "client_id": "490491527726-sng8vorboq46vdjvj5por4tc36knpaad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMlTPIZteKHvLtE8bZGxrS3qEAo4bSOsk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490491527726-sng8vorboq46vdjvj5por4tc36knpaad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
